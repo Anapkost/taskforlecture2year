@@ -2,7 +2,7 @@
 #include <fstream>
 #include <list>
 #include <bitset>
-
+//4var
 using namespace std;
 
 
